@@ -3,7 +3,7 @@
 ## Bio
 
 ## Publications
-- aaa
+- aaa [pdf](https://google.com)
 - bbb
 
 [Link to about](./about.html).
