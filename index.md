@@ -1,9 +1,8 @@
 # kzkuehr's page
+[日本語版はこちら](./about.html)
 
 ## Bio
 
 ## Publications
-- aaa [pdf](https://google.com)
+- aaa [[pdf]](https://github.com/kzkuehr)
 - bbb
-
-[Link to about](./about.html).
