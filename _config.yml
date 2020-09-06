@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 lang: ja-JP
 title: Kazuki Uehara's bio
-header_pages:
-  - about.md
-  - portfolio.md
+description: test desc.

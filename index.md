@@ -5,3 +5,5 @@
 ## Publications
 - aaa
 - bbb
+
+[Link to about](./about.html).
