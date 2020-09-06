@@ -1,6 +1,3 @@
----
-layout:default
----
 # kzkuehr's page
 
 ## Bio
