@@ -13,6 +13,8 @@
 - 赤嶺有平，遠藤聡志，上原和樹，根路銘もえ子，「時間的交通分散を目指した旅行計画提示手法の提案」情報処理学会論文誌，Vol.55，No.1，pp.438--447，(2014).
 
 ## 国際会議（査読あり）
+- Kazuki Uehara, Masahiro Murakawa, Hirokazu Nosato, Hidenori Sakanashi, "Multi-scale Explainable Feature Learning for Pathological Image Analysis using Convolutional Neural Networks", IEEE International Conference on Image Processing (ICIP), pp1931--1935, (2020). 発表: 2020年9月
+
 - Kazuki Uehara, Masahiro Murakawa, Hirokazu Nosato, Hidenori Sakanashi. "Prototype-Based Interpretation of Pathological Image Analysis by Convolutional Neural Networks", Pattern Recognition. ACPR 2019. Lecture Notes in Computer Science, Vol.12047, pp640--652, (2020). 発表：2019年11月
 
 - Kazuki Uehara, Hirokazu Nosato, Masahiro Murakawa, Hidenori Sakanashi. "Object Detection in Satellite Images Based on Active Learning Utilizing Visual Explanation", 11th International Symposium on Image and Signal Processing and Analysis (ISPA), (2019). 発表：2019年9月
