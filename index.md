@@ -1,5 +1,5 @@
 # kzkuehr's page
-[日本語版はこちら](./about.html)
+[日本語版はこちら](./about.md)
 
 ## Bio
 
